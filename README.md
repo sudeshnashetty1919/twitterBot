@@ -10,7 +10,7 @@ The Login feature is skipped
 
 POSTCOMMENT feature file
 
-The postcomment feature file takes "email id", "userName or phonenumber" to confirm sometimes, and password to login 
+The postcomment feature file takes "email id", "userName or phonenumber" to confirm sometimes, and "password" to login so please provide the details for smooth execution
 
 so in feature file in the background you have to provide your account email id, username or phonenumber and password to login
 
@@ -18,4 +18,4 @@ and in scenario you have to provide the username of the account you want to tag
 
 PROFILESCREENSHOT feature file
 
-The profilescreenshot feature file takes "email id" which is tagged and "userName or Phone number" to confirm sometimes, and password to login
+The profilescreenshot feature file takes "email id" which is tagged and "userName or Phone number" to confirm sometimes, and password to login so please provide the details for smooth execution
